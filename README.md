@@ -26,6 +26,6 @@ The first URL will take you to my Github repository, which contanins:
   
 The second URL will take the user to Heroku.com were the deployed application can be seen.
 
-Github URL: https://github.com/aevripidou1996/PWA-Text-Eddit/blob/main/README.md
+Github URL: https://github.com/aevripidou1996/PWA-Text-Editor/tree/main
 
 Live Application URL: https://text-eddit-4bec9081872b.herokuapp.com/
