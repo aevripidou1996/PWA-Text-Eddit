@@ -12,7 +12,7 @@ For this assignment i was given the task of creating my own text editor wich can
 - Package.Jason
 - Webpack
 
-  ## Images
+  ## Image
   ![image](https://github.com/aevripidou1996/PWA-Text-Eddit/assets/114223852/957b37ad-482d-421a-9f12-b4729313fa30)
 
 ## links
@@ -26,6 +26,6 @@ The first URL will take you to my Github repository, which contanins:
   
 The second URL will take the user to Heroku.com were the deployed application can be seen.
 
-Github URL: https://github.com/aevripidou1996/Week2-Challenge
+Github URL: https://github.com/aevripidou1996/PWA-Text-Eddit/blob/main/README.md
 
-Live Application URL: https://aevripidou1996.github.io/Week2-Challenge/
+Live Application URL: https://text-eddit-4bec9081872b.herokuapp.com/
